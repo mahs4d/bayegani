@@ -1,0 +1,8 @@
+# Dev
+.idea
+.vscode
+.venv
+
+# Build
+__pycache__/
+*.pyc
